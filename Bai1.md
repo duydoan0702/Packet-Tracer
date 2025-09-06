@@ -12,4 +12,4 @@
 - Thêm router vào để định tuyến giữa `192.168.1.0/24` và `192.168.2.0/24`. Ta cần cấu hình thêm `default gateway` để giao tiếp với máy bên mạng khác. Nếu không có chỉ có thể giao tiếp trong cùng `subnet mask`.
 
 # KIẾN THỨC
-- **Default gateway** là địa chỉ IP của cổng router nằm trong cùn mạng với PC, PC sẽ gửi gói tin ra ngoài mạng thông qua địa chỉ này.
+- **Default gateway** là địa chỉ IP của cổng router nằm trong cùng mạng với PC, PC sẽ gửi gói tin ra ngoài mạng thông qua địa chỉ này.
